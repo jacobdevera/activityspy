@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Activity Spy</string>
+    <string name="str_main">Greetings, UW!</string>
 </resources>

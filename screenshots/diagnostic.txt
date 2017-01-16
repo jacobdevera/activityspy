@@ -1,41 +1,29 @@
---------- beginning of crash
 --------- beginning of system
 --------- beginning of main
-01-14 22:52:13.022  3378  3378 I MyActivity: onCreate event fired
-01-14 22:52:13.023  3378  3378 I MyActivity: onStart event fired
-01-14 22:52:13.024  3378  3378 I MyActivity: onResume event fired
-01-14 22:52:20.738  3378  3378 I MyActivity: onPause event fired
-01-14 22:52:20.928  3378  3378 I MyActivity: onStop event fired
-01-14 22:52:36.264  3378  3378 I MyActivity: onRestart event fired
-01-14 22:52:36.264  3378  3378 I MyActivity: onStart event fired
-01-14 22:52:36.265  3378  3378 I MyActivity: onResume event fired
-01-14 22:52:40.089  3378  3378 I MyActivity: onPause event fired
-01-14 22:52:40.190  3378  3378 I MyActivity: onStop event fired
-01-14 22:52:51.033  3378  3378 I MyActivity: onRestart event fired
-01-14 22:52:51.033  3378  3378 I MyActivity: onStart event fired
-01-14 22:52:51.034  3378  3378 I MyActivity: onResume event fired
-01-14 22:52:52.052  3378  3378 I MyActivity: onPause event fired
-01-14 22:52:52.461  3378  3378 I MyActivity: onStop event fired
-01-14 22:52:52.461  3378  3378 E MyActivity: We're going down, Captain!
-01-14 22:52:58.946  3378  3378 I MyActivity: onCreate event fired
-01-14 22:52:58.947  3378  3378 I MyActivity: onStart event fired
-01-14 22:52:58.949  3378  3378 I MyActivity: onResume event fired
-01-14 22:53:00.715  3378  3378 I MyActivity: onPause event fired
-01-14 22:53:00.808  3378  3378 I MyActivity: onStop event fired
-01-14 22:53:06.123  3378  3378 I MyActivity: onRestart event fired
-01-14 22:53:06.124  3378  3378 I MyActivity: onStart event fired
-01-14 22:53:06.124  3378  3378 I MyActivity: onResume event fired
-01-14 22:57:55.869  3378  3378 I MyActivity: onPause event fired
-01-14 22:57:56.312  3378  3378 I MyActivity: onStop event fired
-01-14 22:57:56.312  3378  3378 E MyActivity: We're going down, Captain!
-01-14 22:58:28.381  3378  3378 I MyActivity: onCreate event fired
-01-14 22:58:28.382  3378  3378 I MyActivity: onStart event fired
-01-14 22:58:28.382  3378  3378 I MyActivity: onResume event fired
-01-14 22:58:44.573  3378  3378 I MyActivity: onPause event fired
-01-14 22:58:45.358  3378  3378 I MyActivity: onStop event fired
-01-14 22:58:46.183  3378  3378 I MyActivity: onRestart event fired
-01-14 22:58:46.193  3378  3378 I MyActivity: onStart event fired
-01-14 22:58:46.194  3378  3378 I MyActivity: onResume event fired
-01-14 23:00:07.928  3378  3378 I MyActivity: onPause event fired
-01-14 23:00:08.370  3378  3378 I MyActivity: onStop event fired
-01-14 23:00:08.370  3378  3378 E MyActivity: We're going down, Captain!
+01-15 22:44:36.474 10198 10198 I MyActivity: onCreate event fired; savedInstanceState: Bundle[{android:viewHierarchyState=Bundle[mParcelledData.dataSize=1056]}]
+01-15 22:44:36.519 10198 10198 I MyActivity: onStart event fired
+01-15 22:44:36.534 10198 10198 I MyActivity: onResume event fired
+01-15 22:45:08.808 10198 10198 I MyActivity: onPause event fired
+01-15 22:45:08.950 10198 10198 I MyActivity: onStop event fired
+01-15 22:45:14.578 10198 10198 I MyActivity: onRestart event fired
+01-15 22:45:14.582 10198 10198 I MyActivity: onStart event fired
+01-15 22:45:14.582 10198 10198 I MyActivity: onResume event fired
+01-15 22:45:15.610 10198 10198 I MyActivity: onPause event fired
+01-15 22:45:16.082 10198 10198 I MyActivity: onStop event fired
+01-15 22:45:16.084 10198 10198 E MyActivity: We're going down, Captain!
+01-15 22:45:32.621 10198 10198 I MyActivity: onCreate event fired; savedInstanceState: no saved state
+01-15 22:45:32.659 10198 10198 I MyActivity: onStart event fired
+01-15 22:45:32.661 10198 10198 I MyActivity: onResume event fired
+01-15 22:45:34.713 10198 10198 I MyActivity: onPause event fired
+01-15 22:45:34.827 10198 10198 I MyActivity: onStop event fired
+01-15 22:46:33.250 12584 12584 I MyActivity: onCreate event fired; savedInstanceState: Bundle[{android:viewHierarchyState=Bundle[mParcelledData.dataSize=1056]}]
+01-15 22:46:33.319 12584 12584 I MyActivity: onStart event fired
+01-15 22:46:33.338 12584 12584 I MyActivity: onResume event fired
+01-15 22:46:59.527 12584 12584 I MyActivity: onPause event fired
+01-15 22:46:59.705 12584 12584 I MyActivity: onStop event fired
+01-15 22:47:30.263 12584 12584 I MyActivity: onRestart event fired
+01-15 22:47:30.268 12584 12584 I MyActivity: onStart event fired
+01-15 22:47:30.269 12584 12584 I MyActivity: onResume event fired
+01-15 22:47:31.046 12584 12584 I MyActivity: onPause event fired
+01-15 22:47:31.638 12584 12584 I MyActivity: onStop event fired
+01-15 22:47:31.639 12584 12584 E MyActivity: We're going down, Captain!

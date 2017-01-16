@@ -9,38 +9,39 @@ public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        String savedStateString = (savedInstanceState == null) ? "no saved state" : savedInstanceState.toString();
+        Log.i(TAG, "onCreate event fired; savedInstanceState: " + savedStateString);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.i(TAG, "onCreate event fired");
     }
 
     protected void onStart() {
-        super.onStart();
         Log.i(TAG, "onStart event fired");
+        super.onStart();
     }
 
     protected void onRestart() {
-        super.onRestart();
         Log.i(TAG, "onRestart event fired");
+        super.onRestart();
     }
 
     protected void onResume() {
-        super.onResume();
         Log.i(TAG, "onResume event fired");
+        super.onResume();
     }
 
     protected void onPause() {
-        super.onPause();
         Log.i(TAG, "onPause event fired");
+        super.onPause();
     }
 
     protected void onStop() {
-        super.onStop();
         Log.i(TAG, "onStop event fired");
+        super.onStop();
     }
 
     protected void onDestroy() {
-        super.onDestroy();
         Log.e(TAG, "We're going down, Captain!");
+        super.onDestroy();
     }
 }
